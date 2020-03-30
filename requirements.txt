@@ -113,7 +113,7 @@ vc==14
 vs2015_runtime==14.0.2512
 wcwidth==0.1.7
 webencodings==0.5.1
-werkzeug==0.14.1
+werkzeug==0.15.3
 wheel==0.31.1
 widgetsnbextension==3.4.1
 wincertstore==0.2
