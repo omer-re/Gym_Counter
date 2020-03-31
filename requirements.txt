@@ -6,7 +6,7 @@ attrs==18.2.0
 automat==0.7.0
 backcall==0.1.0
 blas==1.0
-bleach==2.1.4
+bleach==3.1.4
 certifi==2018.10.15
 cffi==1.11.5
 colorama==0.3.9
