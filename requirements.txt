@@ -121,6 +121,6 @@ winpty==0.4.3
 yaml==0.1.7
 zeromq==4.2.5
 zlib==1.2.11
-zope==1.0
+zope==5.2.1
 zope.interface==4.5.0
 opencv-contrib==3.3.1
