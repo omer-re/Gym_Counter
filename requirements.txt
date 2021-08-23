@@ -40,7 +40,7 @@ jupyter==1.0.0
 jupyter_client==5.2.3
 jupyter_console==5.2.0
 jupyter_core==4.4.0
-jupyterlab==0.34.9
+jupyterlab==1.2.21
 jupyterlab_launcher==0.13.1
 keras==2.2.2
 keras-applications==1.0.4
