@@ -36,7 +36,7 @@ cv2.normalize(roi_hist, roi_hist, 0, 255, cv2.NORM_MINMAX)
 # Setup the termination criteria, either 10 iteration or move by at least 1 pt
 term_crit = (cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 1)
 
-tracker = cv2.TrackerMedianFlow_create()
+tracker = cv2.legacy.TrackerMedianFlow_create()
 ret = tracker.init(frame, roi)
 while True:
     ret, frame = cap.read()

@@ -1,6 +1,6 @@
 import cv2
 
-tracker = cv2.TrackerMedianFlow_create()
+tracker = cv2.legacy.TrackerMedianFlow_create()
 counter = 0
 above_line = 1
 
